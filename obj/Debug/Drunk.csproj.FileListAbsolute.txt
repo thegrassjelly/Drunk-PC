@@ -1,0 +1,6 @@
+C:\Users\LemonjaxDev\Desktop\Drunk\bin\Debug\Drunk.exe.config
+C:\Users\LemonjaxDev\Desktop\Drunk\bin\Debug\Drunk.exe
+C:\Users\LemonjaxDev\Desktop\Drunk\bin\Debug\Drunk.pdb
+C:\Users\LemonjaxDev\Desktop\Drunk\obj\Debug\Drunk.csprojResolveAssemblyReference.cache
+C:\Users\LemonjaxDev\Desktop\Drunk\obj\Debug\Drunk.exe
+C:\Users\LemonjaxDev\Desktop\Drunk\obj\Debug\Drunk.pdb
